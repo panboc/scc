@@ -1,0 +1,2 @@
+# scc
+Strict C Checker
